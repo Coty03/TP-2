@@ -14,7 +14,7 @@ nav {
     color: white;
     width: 100vw;
     height: 18.83vh;
-    background-color: #74C69D;
+    background-color: #905fc2;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -88,7 +88,7 @@ header {
 h1 {
     margin: 0;
 
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h1,
@@ -120,7 +120,7 @@ header h3 {
 }
 
 header p {
-    font-size: 20px;
+    font-size: 14px;
 }
 
 
@@ -134,7 +134,7 @@ nav a {
 
 
 a:hover {
-    color: #ff0000
+    color: #935dc9
 }
 
 
@@ -195,7 +195,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000000;;
+    background-color: #905fc2;;
 }
 
 
